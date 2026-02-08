@@ -1,4 +1,25 @@
-# How to run the Smarthome app
+# Smart Home Simulator
+
+Learning project to explore:
+- Django & FastAPI
+- Celery, RabbitMQ, Redis
+- MQTT (Mosquitto)
+- React
+- Docker & Kubernetes
+
+## Tech Stack
+- Backend: Django, FastAPI
+- Frontend: React
+- Messaging: RabbitMQ, Redis, MQTT
+- Infra: Docker, Docker Compose, Kubernetes
+
+## Goals
+- Understand distributed systems
+- Practice real-world backend architecture
+- Build a safe smart-home simulator
+
+
+# How to run the Smart Home app
 
 ## Install Docker and Docker Compose
 
