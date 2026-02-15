@@ -53,3 +53,8 @@ services:
       DATABASE_PORT: ${DATABASE_PORT}
     env_file:
       - .env
+    develop:
+      watch:
+        - action: sync
+          path: ./backend/django
+          target: /app  
